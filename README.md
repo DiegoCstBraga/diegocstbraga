@@ -40,6 +40,7 @@
   <img alt="css3" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
   <img alt="figma" width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   <img alt="git" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img alt="mssql" width="30" height="30" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 
 </div>
 
