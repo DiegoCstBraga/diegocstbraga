@@ -7,8 +7,6 @@
 
 - 📫 Reach me at **diego.cstbraga@gmail.com**
 
-- ⚡ Fun fact **colorblind** 🎨
-
 ## Quick resume 👨‍💻
 
 <p align='center'>
