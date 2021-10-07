@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, dear visitor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h3 align="center">I'm Diego Braga, a Front End Developer student</h3>
+<h3 align="center">I'm Diego Braga, a Front End Developer and ITSM Consultant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoCstBraga" alt="DiegoCstBraga" /> </p>
 
