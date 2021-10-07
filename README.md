@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoCstBraga" alt="DiegoCstBraga" /> </p>
 
-- 🔭 I’m currently looking for a job
+- 🔭 I'm currently working at Certsys
 
 - 📫 Reach me at **diego.cstbraga@gmail.com**
 
