@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoCstBraga" alt="DiegoCstBraga" /> </p>
 
-- 🔭 I'm currently working at Certsys
-
+- 🔭 I'm currently working at Certsys as ITSM Consultant
+- 🌱 Learning React, React Native and NodeJS
 - 📫 Reach me at **diego.cstbraga@gmail.com**
+- 🍹 Fun fact: I can make a delicious brazillian drink called "caipirinha"
 
-## Quick resume 👨‍💻
+<h1 align="center">Quick resume 👨‍💻</h1>
 
 <p align='center'>
   <a  href="https://github.com/DiegoCstBraga">
@@ -32,31 +33,18 @@
 
 ---
 
-### I have some experience with 🧪
-<div style="display: inline-block">
-  <img alt="html5" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-  <img alt="css3" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-  <img alt="figma" width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-  <img alt="git" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img alt="mssql" width="30" height="30" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+<h1 align='center'> Main Technologies 💻 </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
 
-</div>
-
-### I'm currently studying 🔎
-<div style="display: inline-block">
-  <img alt="javascript" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="typescript" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="react" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  
-</div>
-
-### I'm going to learn 🎯
-<div style="display: inline-block">
-  <img alt="mongodb" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-
-  <img alt="reactnative" width="30" height="30" src="https://reactnative.dev/img/header_logo.svg"/>
-  <img alt="electron" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />
-
-  <img alt="python" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</p>
