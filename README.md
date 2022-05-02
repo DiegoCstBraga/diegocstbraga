@@ -1,10 +1,10 @@
 <h1 align="center">Hello there, dear visitor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h3 align="center">I'm Diego Braga, a Front End Developer and ITSM Consultant</h3>
+<h3 align="center">I'm Diego Braga, a Front End and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoCstBraga" alt="DiegoCstBraga" /> </p>
 
-- 🔭 I'm currently working at Certsys as ITSM Consultant
-- 🌱 Learning React, React Native and NodeJS
+- 🔭 I'm currently working at LSI-TEC as Systems Development Analyst Jr.
+- 🌱 Learning Android, React, React Native, NodeJS
 - 📫 Reach me at **diego.cstbraga@gmail.com**
 - 🍹 Fun fact: I can make a delicious brazillian drink called "caipirinha"
 
