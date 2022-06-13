@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoCstBraga" alt="DiegoCstBraga" /> </p>
 
 - 🔭 I'm currently working at LSI-TEC as Systems Development Analyst
-- 🌱 Learning Android, Kotlin and React Native
+- 🌱 Learning Android and Kotlin
 - 📫 Reach me at **diego.cstbraga@gmail.com**
 - 🍹 Fun fact: I can make a delicious brazillian drink called "caipirinha"
 
