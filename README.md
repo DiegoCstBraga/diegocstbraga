@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoCstBraga" alt="DiegoCstBraga" /> </p>
 
 - 🔭 I'm currently working at LSI-TEC as Systems Development Analyst
-- 🌱 Learning Android and Kotlin
+- 🌱 Learning Flutter and React Native
 - 📫 Reach me at **diego.cstbraga@gmail.com**
 - 🍹 Fun fact: I can make a delicious brazillian drink called "caipirinha"
 
@@ -27,17 +27,18 @@
 </p>
 
 <h1 align='center'> Main Technologies 💻 </h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-202020?style=for-the-badge&logo=android&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/Kotlin-202020?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-  <img src="https://img.shields.io/badge/React_Native-202020?style=for-the-badge&logo=react&logoColor=61DAFB">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-202020.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/css3-202020.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/reactjs-202020?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-202020?style=for-the-badge&logo=android&logoColor=3DDC84">
+  <img src="https://img.shields.io/badge/Kotlin-202020?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+  <img src="https://img.shields.io/badge/React_Native-202020?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
 <p align="center">
