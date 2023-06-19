@@ -5,26 +5,9 @@
 
 - 🔭 I'm currently working at LSI-TEC as Software Developer
 - 🌱 Learning Flutter and React Native
-- 📫 Reach me at **diego.cstbraga@gmail.com**
 - 🍹 Fun fact: I can make a delicious brazillian drink called "caipirinha"
 
-<h1 align="center">Quick resume 👨‍💻</h1>
-
-<p align='center'>
-  <a  href="https://github.com/DiegoCstBraga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCstBraga&show_icons=true&include_all_commits=true&count_private=true" />
-  </a>
-</p>
-
-<p align='center'>
-  <a href = "mailto:diego.cstbraga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/DiegoCstBraga" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</p>
+<h1 align="center">Reach me at</h1>
 
 <h1 align='center'> Main Technologies 💻 </h1>
 
@@ -45,4 +28,14 @@
   <img src="https://img.shields.io/badge/git-202020.svg?style=for-the-badge&logo=git&logoColor=F05032">
   <img src="https://img.shields.io/badge/github-202020.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-202020.svg?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+<p align='center'>
+  <a href = "mailto:diego.cstbraga@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/DiegoCstBraga" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </p>
