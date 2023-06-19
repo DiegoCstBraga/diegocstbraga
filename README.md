@@ -7,8 +7,6 @@
 - 🌱 Learning Flutter and React Native
 - 🍹 Fun fact: I can make a delicious brazillian drink called "caipirinha"
 
-<h1 align="center">Reach me at</h1>
-
 <h1 align='center'> Main Technologies 💻 </h1>
 
 <p align="center">
@@ -29,6 +27,8 @@
   <img src="https://img.shields.io/badge/github-202020.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-202020.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
+<h1 align="center">Reach me at</h1>
 
 <p align='center'>
   <a href = "mailto:diego.cstbraga@gmail.com" target="_blank">
