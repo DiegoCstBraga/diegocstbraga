@@ -1,18 +1,14 @@
-<h1 align="center">Hello there, dear visitor 👋</h1>
-<h3 align="center">I'm Diego Braga, a Front End and Mobile Developer</h3>
+<h1>Diego Braga - Software Developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoCstBraga" alt="DiegoCstBraga" /> </p>
+<p>I am a fast-learning Software Developer with 4 years of experience in creating innovative Web and Mobile solutions. My expertise lies primarily in JavaScript, TypeScript, React, and React Native, complemented by a solid understanding of Cloud Computing with AWS. I have a proven track record of leading projects from inception to completion, ensuring high-quality deliverables through effective collaboration and agile methodologies. I am passionate about leveraging technology to solve real-world problems and continuously seek opportunities to enhance my skills and contribute to impactful projects.</p>
 
-- 🔭 I'm currently working at LSI-TEC as Software Developer
-- 🌱 Learning Flutter and React Native
-- 🍹 Fun fact: I can make a delicious brazillian drink called "caipirinha"
-
-<h1 align='center'> Main Technologies 💻 </h1>
+<h2>Tech Stack 💻 </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-202020.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/css3-202020.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=typescript&logoColor=3077c5">
   <img src="https://img.shields.io/badge/reactjs-202020?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
@@ -28,7 +24,7 @@
   <img src="https://img.shields.io/badge/figma-202020.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<h1 align="center">Reach me at</h1>
+<h2>Reach me at</h2>
 
 <p align='center'>
   <a href = "mailto:diego.cstbraga@gmail.com" target="_blank">
